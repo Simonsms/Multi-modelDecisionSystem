@@ -1,0 +1,1 @@
+"""Stages schema placeholder."""
